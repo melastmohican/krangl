@@ -83,3 +83,4 @@ fabric.properties
 .project
 .settings
 
+/bin/
